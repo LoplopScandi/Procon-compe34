@@ -1,5 +1,5 @@
 # Procon-compe34
-WE WILL DESTROY OTHER KOSEN git rm -r
+WE WILL DESTROY OTHER KOSEN git rm -r\n
 第34回全国高等専門学校プログラミングコンテスト呉工業高等専門学校競技部門のリポジトリ
 
 変数の命名規則は[Siv3Dコーディングスタイル](https://scrapbox.io/ict-science-club/Siv3D%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB) を使用する
